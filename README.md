@@ -1,3 +1,5 @@
+This project is not containing node_modules as it is heavier to upload. so once u download it npm install <package-name> or npm install
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
